@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Krunker.oi Cheat (No ADs)
+// @name         Krunker.io Cheat (No ADs)
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Locks aim to nearest player and shows other players behind the walls.
