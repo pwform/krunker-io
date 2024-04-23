@@ -14,7 +14,7 @@ First of all, you need [Tampermonkey](https://chromewebstore.google.com/detail/t
 
 Now, use [this link](https://gist.github.com/pwform/e3b2062321be4a192bc513e71969d56c/raw/pwformkrunker.user.js) to install the Userscript.
 
-Enjoy the game! <sub>but don't abuse</sub>
+Enjoy the game!  <sub>(but don't abuse)</sub>
 
 ## Keyboard Shortcuts:
 
