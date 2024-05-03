@@ -1,6 +1,6 @@
 # Krunker.io Aimbot & ESP
 
-Aimbot and ESP for Krunker.io with no ADs.
+Aimbot and ESP for [Krunker.io](https://krunker.io/) with no ADs.
 
 ## What's Aimbot:
 It's an Aim Assistant that locks the aim to the nearest player. Doesn't auto-shoot, so you have to shoot yourself.
